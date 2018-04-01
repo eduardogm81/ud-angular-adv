@@ -1,0 +1,2 @@
+ng g c home -is // is -> Sin el archivo de estilos
+ng new clitest -dir="ej1"
